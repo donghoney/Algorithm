@@ -8,3 +8,5 @@
 9095 dynamic programming "1,2,3 더하기"
 
 1003 dynamic programming "피보나치 함수"
+
+17201 "자석 체인"
